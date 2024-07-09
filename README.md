@@ -69,8 +69,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 Stay connected with us through our:
 
 * [Website](https://upworkbd.com) 🌐
-* [Facebook Page](https://www.facebook.com/Upworkbd/) 👥
-* [Facebook Group](https://www.facebook.com/groups/UpworkbdCommunity/) 💬
+* [Facebook Page](https://www.facebook.com/upworkbdcom/) 👥
+* [Facebook Group](www.facebook.com/groups/devupworkbd/) 💬
 * [Twitter](https://twitter.com/Upworkbd) 🐦
 * [LinkedIn](https://www.linkedin.com/company/Upworkbd/) 💼
 * [Instagram](https://www.instagram.com/Upworkbd/) 📸
