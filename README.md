@@ -1,25 +1,29 @@
 # Upworkbd - Freelance Developer Training Platform
 =====================================================
 
-![Logo](logo.svg)
+![Logo](logo.svg) **Learn. Grow. Freelance.**
 
 ## Introduction
 ---------------
 
 Welcome to Upworkbd, a platform dedicated to equipping students with the skills and knowledge necessary to succeed as freelance developers. Our mission is to provide a comprehensive learning experience, focusing on full-stack development, to help students launch their careers in the freelance industry.
 
+![Upworkbd Website Screenshot](upworkbd-website-screenshot.png)
+
 ## Courses Offered
 -----------------
 
-### Full-Stack Development Course
+### Full-Stack Development Course 🚀
 
 In this course, students will learn the fundamentals of full-stack development, including both front-end and back-end development. Through hands-on projects and interactive exercises, students will gain a deep understanding of the technologies and tools used in the industry. By the end of this course, students will be able to build their own full-stack applications and be ready to take on freelance projects.
 
-### Essential English For Freelancing (Free)
+### Essential English For Freelancing (Free) 📚
+![Essential English Banner](essential-english.png)
 
 Effective communication is crucial for success as a freelancer. This course is designed to improve English communication skills, specifically tailored for freelancing. Students will learn how to write compelling proposals, negotiate with clients, and communicate effectively throughout the project lifecycle.
 
-### Marketplace A To Z (Free)
+### Marketplace A To Z (Free) 📈
+![Marketplace A To Z Banner](marketplace-professional.png)
 
 This course provides a comprehensive guide to freelancing marketplaces, including strategies for creating winning proposals, securing clients, and managing projects. Students will learn how to navigate popular marketplaces, such as Upwork, Fiverr, and Freelancer, and develop the skills necessary to succeed in these platforms.
 
@@ -64,11 +68,15 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Stay connected with us through our:
 
-* [Website](https://upworkbd.com)
-* [Facebook Page](https://www.facebook.com/Upworkbd/)
-* [Facebook Group](https://www.facebook.com/groups/UpworkbdCommunity/)
+* [Website](https://upworkbd.com) 🌐
+* [Facebook Page](https://www.facebook.com/Upworkbd/) 👥
+* [Facebook Group](https://www.facebook.com/groups/UpworkbdCommunity/) 💬
+* [Twitter](https://twitter.com/Upworkbd) 🐦
+* [LinkedIn](https://www.linkedin.com/company/Upworkbd/) 💼
+* [Instagram](https://www.instagram.com/Upworkbd/) 📸
+* [YouTube](https://www.youtube.com/Upworkbd) 📹
 
 ## Closing
 ----------
 
-Thank you for joining us on this learning journey! We're excited to have you on board and look forward to seeing the amazing things you'll achieve. Don't hesitate to reach out if you have any questions or need assistance. Happy learning!
+Thank you for joining us on this learning journey! We're excited to have you on board and look forward to seeing the amazing things you'll achieve. Don't hesitate to reach out if you have any questions or need assistance. Happy learning! 🎉
