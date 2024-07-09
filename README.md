@@ -1,7 +1,7 @@
 # Upworkbd - Freelance Developer Training Platform
 =====================================================
 
-![Logo](logo.png)
+![Logo](logo.svg)
 
 ## Introduction
 ---------------
