@@ -18,12 +18,12 @@ Welcome to Upworkbd, a platform dedicated to equipping students with the skills 
 In this course, students will learn the fundamentals of full-stack development, including both front-end and back-end development. Through hands-on projects and interactive exercises, students will gain a deep understanding of the technologies and tools used in the industry. By the end of this course, students will be able to build their own full-stack applications and be ready to take on freelance projects.
 
 ### Essential English For Freelancing (Free) 📚
-![Essential English Banner](essential-english.png)
+![Essential English Banner](essential-english.svg)
 
 Effective communication is crucial for success as a freelancer. This course is designed to improve English communication skills, specifically tailored for freelancing. Students will learn how to write compelling proposals, negotiate with clients, and communicate effectively throughout the project lifecycle.
 
 ### Marketplace A To Z (Free) 📈
-![Marketplace A To Z Banner](marketplace-professional.png)
+![Marketplace A To Z Banner](marketplace-professional.svg)
 
 This course provides a comprehensive guide to freelancing marketplaces, including strategies for creating winning proposals, securing clients, and managing projects. Students will learn how to navigate popular marketplaces, such as Upwork, Fiverr, and Freelancer, and develop the skills necessary to succeed in these platforms.
 
